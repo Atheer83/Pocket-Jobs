@@ -10,10 +10,6 @@ Pocket Jobs is a Web app. in our Application we make it esay for who looking for
 
 * [Installation](#Instalation)
 * [Usage](#Usage)
-* [Requirements](#requirements)
-* [Development](#development)
-    . [Installing Dependencies](#installing-dependencies)
-    . [Tasks](#tasks)
 * [Team](#team)
 * [Contributing](#contributing)
 
@@ -35,19 +31,9 @@ bower install
 3. sudo mongod
 
 
-## Requirements
-
-Node ^6.11.4
-MongoDb
-React
+### Deployment
 
 
 
-### Roadmap
-
-View the project roadmap [here](https://waffle.io/RBKJuggernaut/GreenFieldProject)
 
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
