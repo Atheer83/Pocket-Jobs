@@ -8,14 +8,14 @@ Pocket Jobs is a Web app. in our Application we make it esay for who looking for
 
 ## Table of Contents
 
-. [Installation](#Instalation)
-. [Usage](#Usage)
-. [Requirements](#requirements)
-. [Development](#development)
+* [Installation](#Instalation)
+* [Usage](#Usage)
+* [Requirements](#requirements)
+* [Development](#development)
     . [Installing Dependencies](#installing-dependencies)
     . [Tasks](#tasks)
-. [Team](#team)
-. [Contributing](#contributing)
+* [Team](#team)
+* [Contributing](#contributing)
 
 ## Installation
 
