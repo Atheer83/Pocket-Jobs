@@ -25,11 +25,14 @@ bower install
 
 
 ## Usage
-  Clone or download the repo and run npm install, then open three terminal windows:
+Clone or download the repo and run npm install, then open three terminal windows:
 1. npm run server-dev
 2. npm run react-dev
 3. sudo mongod
 
+
+
+## Credits
 
 ### Deployment
 
